@@ -1,0 +1,49 @@
+.background_image{
+    background-image: url("camera.png");
+    background-size: cover;
+}
+
+#hi{
+    color: green;
+}
+
+#hell0{
+    color: black;
+    background-color: #ff3700;
+    width: 100px;
+    font-size: 25px;
+}
+
+#number-of-objects{
+    color: black;
+    background-color: purple;
+    width: 100px;
+}
+
+#status{
+    color: black;
+    background-color: forestgreen;
+    width: 100px;
+}
+
+#Saatvik{
+    text-align: center;
+    background-color: turquoise;
+    color: black;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+canvas{
+    border: 2px solid #3b82f5;
+    box-shadow: 5px 5px 5px 5px #3b82f5;
+}
+
+#status{
+    width: 35%;
+}
+
+#number-of-objects{
+    width: 40%;
+}
